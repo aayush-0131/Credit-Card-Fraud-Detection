@@ -1,6 +1,3 @@
-# 12-jha-amritanshu-reddy-codes
-
-
 # Credit Card Fraud Detection and Cost Optimization Using Statistical Optimization Techniques
 
 This project implements an optimization-based model for detecting credit card fraud while minimizing misclassification costs using convex optimization techniques such as Linear Programming and Quadratic Programming.
