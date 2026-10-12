@@ -10,7 +10,7 @@ This work was prepared by three team members, as documented in the committed Qua
 | --- | --- |
 | Aayush Jha (BSDCC2401) | Led formulation of the optimization problem and helped implement the gradient-descent solution |
 | Amartya Amritanshu (BSDCC2405) | Data preprocessing, visualization and contributions to LP/QP formulation |
-| Paduri Sanjith Reddy (VSDCC2412) | Cost-model design, sensitivity analysis and presentation slides |
+| Paduri Sanjith Reddy (BSDCC2412) | Cost-model design, sensitivity analysis and presentation slides |
 
 These are the contributions **reported by the team**. Repository ownership should not be interpreted as sole authorship or as proof that every described component was written by one person.
 
