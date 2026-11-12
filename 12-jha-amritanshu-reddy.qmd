@@ -1,8 +1,8 @@
 ---
 title: "Credit Card Fraud Detection and Cost Optimization Using Statistical Optimization Techniques"
 author:
-  - Aayush Jha (BSDCC2401)
-  - Amartya Amritanshu (BSDCC2405)
+  - Aayush Jha
+  - Amartya Amritanshu
   - Paduri Sanjith Reddy (VSDCC2412)
 format: 
   pdf:
@@ -199,6 +199,6 @@ All source code, raw data, and intermediate outputs are available in the Zip fil
 
 ## ✅ Individual Contributions
 
--   **Aayush Jha (BSDCC2401)**: Led the formulation of the optimization problem and helped implement the gradient descent solution.
--   **Amartya Amritanshu (BSDCC2405)**: Conducted data preprocessing, visualization, and contributed to the LP/QP formulation.
--   **Paduri Sanjith Reddy (BSDCC2412)**: Designed the cost model, performed sensitivity analysis, and prepared presentation slides.
+-   **Aayush Jha**: Led the formulation of the optimization problem and helped implement the gradient descent solution.
+-   **Amartya Amritanshu**: Conducted data preprocessing, visualization, and contributed to the LP/QP formulation.
+-   **Paduri Sanjith Reddy**: Designed the cost model, performed sensitivity analysis, and prepared presentation slides.
